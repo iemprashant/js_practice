@@ -40,7 +40,7 @@ myArray.forEach((val) => console.log(val));
 // 4
 
 // To fix this undefined print value ,we need to make changes in our forEach method
- 
+
 // ***************************** CONCEPT ****************************
 
 // Object.prototype.hasOwnProperty()
